@@ -13,3 +13,8 @@ It covers table creation, stored procedures, and CRUD operations commonly used i
 ---
 
 ## 📂 Project Structure
+customer-database-management/
+│── schema.sql
+│── procedures.sql
+│── queries.sql
+│── README.md
